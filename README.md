@@ -13,13 +13,13 @@ A simple and clean **Flutter Expense Tracker** application that helps users reco
 ## 🛠️ Tech Stack
 
 * **Flutter** (Dart)
-* **State Management**: Provider / Riverpod / Bloc (choose your own)
-* **Local Storage**: Hive / Sqflite
+* **State Management**:  Riverpod 
+* **Local Storage**: Hive 
 
 ## 📦 Getting Started
 
 ```bash
-git clone https://github.com/henokmulat/expense-tracker.git
+git clone [<repo-url>](https://github.com/henokmulat/expense-tracker.git
 cd expense_tracker
 flutter pub get
 flutter run
@@ -43,3 +43,21 @@ Feel free to open issues or submit pull requests.
 ## 📄 License
 
 MIT License © 2025
+
+## ✨ Highlights
+
+* Fast and lightweight
+* Beginner‑friendly architecture
+* Easily customizable for personal use
+* Works fully offline
+
+## 📊 Future Improvements
+
+* Monthly/weekly charts
+* Export to CSV or PDF
+* Cloud sync
+* Dark mode
+
+## 📬 Contact
+
+For questions or suggestions, feel free to reach out or open an issue on the repository.
